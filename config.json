@@ -1,0 +1,12 @@
+{
+  "hotkey": "ctrl+shift+t",
+  "window_opacity": 0.9,
+  "default_position": {
+    "x": 100,
+    "y": 100
+  },
+  "font": {
+    "family": "Arial",
+    "size": 12
+  }
+}
