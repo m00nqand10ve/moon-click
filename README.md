@@ -1,4 +1,4 @@
-# 置顶文本显示工具 (Floating Text Display)
+# moon-click 
 
 一个轻量级的桌面应用程序，允许用户通过全局快捷键快速输入文本，并将文本以置顶悬浮窗口的形式显示在屏幕上。适用于快速记录临时信息、提醒事项或需要持续可见的笔记。
 
@@ -33,8 +33,8 @@
 ### 1. 克隆或下载项目
 
 ```bash
-git clone <repository-url>
-cd floating-text-display
+git clone https://github.com/m00nqand10ve/moon-click.git
+cd moon-click
 ```
 
 或者直接下载项目压缩包并解压。
@@ -113,7 +113,7 @@ python main.py
 
 ### 删除窗口
 
-每个悬浮窗口的右上角都有一个 `X` 删除按钮：
+鼠标右键点击有 删除按钮：
 - 点击删除按钮即可关闭该悬浮窗口
 - 删除操作不会影响其他悬浮窗口
 - 窗口关闭后会立即释放系统资源
@@ -242,7 +242,7 @@ floating-text-display/
 
 如有问题或建议，请通过以下方式联系：
 - 提交 GitHub Issues
-- 发送邮件至 [邮箱地址]
+- 发送邮件至 moonq333@163.com
 
 ## 🆕 更新日志
 
@@ -250,4 +250,5 @@ floating-text-display/
 - 实现基本的置顶文本显示功能
 - 添加全局快捷键支持
 - 支持多窗口操作
+
 - 系统托盘集成
